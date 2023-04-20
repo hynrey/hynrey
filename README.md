@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sergey Sedin</h1>
 <h3 align="center">A passionate full stack software developer</h3>
 
-- 🔭 I’m currently working on e-commerce telegram bot **PlexSystem**
+- 🔭 I’m currently working on e-commerce telegram bot **PlexSystem** and Untitled Game on Unity
 
 - 🌱 I’m currently learning frontend frameworks **React, Vue**
 
