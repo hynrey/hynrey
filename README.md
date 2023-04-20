@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning frontend frameworks **React, Vue**
 
+- 🌍 I was translating [EDDI](https://github.com/EDCD/EDDI) application for **Elite:Dangerous** into Russian
+
 - 📫 How to reach me **hynrey@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
