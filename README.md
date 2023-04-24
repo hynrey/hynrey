@@ -26,6 +26,5 @@
   <summary>:zap:Stats</summary>
   
   [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hynrey&theme=tokyonight&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hynrey&layout=compact&theme=tokyonight&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
   ![LeetCode](https://leetcard.jacoblin.cool/hynrey?theme=unicorn)
 </details>
